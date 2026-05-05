@@ -46,7 +46,7 @@ body {
 .service-btn {
   display: flex;
   gap: 32px;
-  display: none;
+  /* display: none; */
 }
 
 .service-btn button {
