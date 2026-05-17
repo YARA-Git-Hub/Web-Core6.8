@@ -17,7 +17,6 @@
   flex-shrink: 0;
 }
 .divider-1 {
- 
   display: none;
 }
 .divider-2 {
@@ -99,7 +98,7 @@ body {
 .main-header {
   height: 80px;
   background: white;
-  
+
   align-items: center;
   padding: 18px 24px;
   display: flex;
@@ -125,24 +124,21 @@ body {
     /* margin-left: auto; */
   }
   .divider-1 {
-  padding-left: 2%;
-  display: flex;
-}
+    padding-left: 2%;
+    display: flex;
+  }
 }
 
 @media (min-width: 1120px) {
   .main-header {
     display: none;
-    
   }
-  
+
   .service-btn {
     display: flex;
-  
   }
   .divider-1 {
-  padding-left: 2%;
-  display: flex;
-}
-
+    padding-left: 2%;
+    display: flex;
+  }
 }
